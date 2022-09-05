@@ -51,7 +51,7 @@ if ! [ $target ]
   exit 1
 fi
 
-#creting working folder
+#creating working folder
 
 if [ ! -d /tmp/$target ]
 then
